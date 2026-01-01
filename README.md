@@ -1,2 +1,2 @@
 # cpp-fundamentals
-Basic C++ projects to practice loops, arrays, and functions
+Basic C++ projects to practice conditions, loops, arrays, and functions
