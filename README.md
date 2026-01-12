@@ -16,6 +16,14 @@ Basic C++ projects to practice conditions, loops, arrays, and functions.
 - **Details:** Determines highest and lowest grade.
 - **Learning Outcome:** Demonstrates do-while loops and conditional logic in C++.
 
+### while 
+
+#### Energy Monitoring System
+- **File:** `loops/energy_monitoring.cpp`
+- **Description:** Reads energy readings in kWh until 0 is entered.
+- **Details:** Calculates total, average, max, min, and counts hours above average.
+- **Learning Outcome:** Practicing loops, input validation, and simple calculations in C++.
+
 ### Arrays Projects
 *(Add projects here later)*
 
