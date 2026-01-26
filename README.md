@@ -24,6 +24,14 @@ Basic C++ projects to practice conditions, loops, arrays, and functions.
 - **Details:** Calculates total, average, max, min, and counts hours above average.
 - **Learning Outcome:** Practicing loops, input validation, and simple calculations in C++.
 
+### For
+
+#### Daily Power Usage Analyzer
+- **File:** `loops/daily_power_usage.cpp`
+- **Description:** Reads 24 hourly power readings (Wh), calculates total, average, max, min, and tracks hour of maximum consumption.
+- **Learning Outcome:** Practicing loops (`for` and `do-while`) and input validation in C++.
+
+
 ### Arrays Projects
 *(Add projects here later)*
 
